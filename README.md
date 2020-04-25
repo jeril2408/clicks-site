@@ -1,1 +1,1 @@
-TinDog Starting Files
+Clicks Starting Site
